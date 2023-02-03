@@ -28,13 +28,13 @@ Uma Pessoa deve ter os seguintes campos:
 
 · Endereço:
 
-o Logradouro
+· Logradouro
 
-o CEP
+· CEP
 
-o Número
+· Número
 
-o Cidade
+· Cidade
 
 Requisitos
 
@@ -263,7 +263,10 @@ Será levado em avaliação
 ]
 
 
-### Alguns prints do sistema
+
+
+
+ Alguns prints do sistema
 
 ![image](https://user-images.githubusercontent.com/80012379/216491896-c43e9a0e-11e2-43d7-9d08-c8b4352c8389.png)
 ![image](https://user-images.githubusercontent.com/80012379/216491961-6ee96c73-ae5c-4175-89cb-8985b42b53f3.png)
@@ -273,9 +276,4 @@ Será levado em avaliação
 ![image](https://user-images.githubusercontent.com/80012379/216492125-cf1a23fe-b9eb-499a-a7f5-4403474438bc.png)
 ![image](https://user-images.githubusercontent.com/80012379/216492143-f4d50518-813f-4cc8-88cd-cd1c593f5398.png)
 ![image](https://user-images.githubusercontent.com/80012379/216492316-0fbae400-c76c-447d-8797-5a523928a5bd.png)
-
-
-
-
-
 
